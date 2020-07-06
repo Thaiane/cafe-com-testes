@@ -32,7 +32,7 @@
 
 ## :dart: A iniciativa
 
-O Café com Testes é uma iniciativa interna da Pagar.me para compartilhar conhecimento sobre testes e boas práticas de desenvolvimento. Essa iniciativa foi inspirada no [Testing on the Toilet](https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html) para disseminar a cultura de testes, onde eles colavam flyers nos banheiros com conteúdos desde injeção de dependência até cobertura de código.
+O Café com Testes é uma iniciativa interna da Pagar.me para compartilhar conhecimento sobre testes e boas práticas de desenvolvimento. Essa iniciativa foi inspirada no [Testing on the Toilet](https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html) do Google para disseminar a cultura de testes, onde eles colavam flyers nos banheiros com conteúdos desde injeção de dependência até cobertura de código. Esse conteúdo deveria ocupar no máximo uma folha A4 e ser direta ao ponto de as pessoas conseguirem voltar pras suas mesas e implementar.
 
 ## :heart: Como contribuir
 
