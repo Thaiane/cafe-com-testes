@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pagarme/cafe-com-testes">
-    <img src=".github/cafecomtestes.png" width="300" alt="Café com Testes">
+    <img src=".github/cafecomtestes.png" width="1400" alt="Café com Testes">
   </a>
 </p>
 <p align="center">Dicas de Teste e Boas Práticas de Desenvolvimento</p>
