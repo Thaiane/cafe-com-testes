@@ -39,10 +39,10 @@ O Café com Testes é uma iniciativa interna da Pagar.me para compartilhar conhe
 A ideia do Café com Testes é ser um conteúdo simples, direto e que após sua leitura o time possa virar pro lado e já aplicar o que aprendeu. 
 
 Para contribuir com o conteúdo basta:
-- Criar uma nova branch 
-- Criar o arquivo .md com o seu artigo
+- Fazer o fork do projeto
+- Criar o arquivo .md com o seu artigo dentro da pasta artigos
 - Atualizar o [arquivo de índices](./INDICE) com o link para o novo artigo
-- Fazer um PR com as suas alterações
+- Fazer um PR pro nosso repositório
 - Aguardar a aprovação :)
 
 ## :rotating_light: Código de conduta
