@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pagarme/cafe-com-testes">
-    <img src=".github/cafecomtestes.png" alt="Café com Testes">
+    <img src="../.github/cafecomtestes.png" alt="Café com Testes">
   </a>
 </p>
 
@@ -31,4 +31,17 @@ it("When querying by site name, get the right site", async () => {
   expect(siteToCheck.name).to.be.equal("Portal"); //Esse teste falha porque o teste anterior alterou o dado do seed
 });```
 
+
 ### Manipulando os dados por teste:
+
+```js
+it("When updating site name, get successful confirmation", async () => {
+  //o teste adiciona os dados que precisa
+  const siteUnderTest = await db.site.add({
+    name: "siteForUpdateTest"
+  });
+
+  const updateNameResult = await site.changeName(siteUnderTest, "newName");
+
+  expect(updateNameResult).to.be(true);
+});```
