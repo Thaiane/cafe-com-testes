@@ -29,7 +29,8 @@ it("When querying by site name, get the right site", async () => {
    //preciso ter certeza que o site “portal” existe no seed, senão meu teste vai quebrar
   const siteToCheck = await site.getSiteByName("Portal");
   expect(siteToCheck.name).to.be.equal("Portal"); //Esse teste falha porque o teste anterior alterou o dado do seed
-});```
+});
+```
 
 
 ### Manipulando os dados por teste:
@@ -44,4 +45,5 @@ it("When updating site name, get successful confirmation", async () => {
   const updateNameResult = await site.changeName(siteUnderTest, "newName");
 
   expect(updateNameResult).to.be(true);
-});```
+});
+```
