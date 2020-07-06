@@ -28,12 +28,16 @@
 - [Como contribuir](#heart-como-contribuir)
 - [Código de conduta](#rotating_light-código-de-conduta)
 - [Licença](#memo-licença)
-- [Índice de Artigos](./INDICE.md)
+- [Índice de Artigos](#heavy_check_mark-indice-de-artigos)
 
 
 ## :dart: A iniciativa
 
 O Café com Testes é uma iniciativa interna da Pagar.me para compartilhar conhecimento sobre testes e boas práticas de desenvolvimento. Essa iniciativa foi inspirada no [Testing on the Toilet](https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html) do Google para disseminar a cultura de testes, onde eles colavam flyers nos banheiros com conteúdos desde injeção de dependência até cobertura de código. Esse conteúdo deveria ocupar no máximo uma folha A4 e ser direta ao ponto de as pessoas conseguirem voltar pras suas mesas e implementar.
+
+## :heavy_check_mark: Índice de Artigos
+
+- [Evite seeds de dados globais, adicione os dados por teste](artigos/test:evitar-seeds-globais.md)
 
 ## :heart: Como contribuir
 
@@ -42,7 +46,7 @@ A ideia do Café com Testes é ser um conteúdo simples, direto e que após sua 
 Para contribuir com o conteúdo basta:
 - Fazer o fork do projeto
 - Criar o arquivo .md com o seu artigo dentro da pasta artigos
-- Atualizar o [arquivo de índices](./INDICE.md) com o link para o novo artigo
+- Atualizar o [README](./README.md) com o link para o novo artigo em [Índice de Artigos](#heavy_check_mark-indice-de-artigos)
 - Fazer um PR pro nosso repositório
 - Aguardar a aprovação :)
 
