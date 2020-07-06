@@ -28,6 +28,7 @@
 - [Como contribuir](#heart-como-contribuir)
 - [Código de conduta](#rotating_light-código-de-conduta)
 - [Licença](#memo-licença)
+- [Índice de Artigos](./INDICE.md)
 
 
 ## :dart: A iniciativa
@@ -41,7 +42,7 @@ A ideia do Café com Testes é ser um conteúdo simples, direto e que após sua 
 Para contribuir com o conteúdo basta:
 - Fazer o fork do projeto
 - Criar o arquivo .md com o seu artigo dentro da pasta artigos
-- Atualizar o [arquivo de índices](./INDICE) com o link para o novo artigo
+- Atualizar o [arquivo de índices](./INDICE.md) com o link para o novo artigo
 - Fazer um PR pro nosso repositório
 - Aguardar a aprovação :)
 
