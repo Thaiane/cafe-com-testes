@@ -39,6 +39,7 @@ O Café com Testes é uma iniciativa interna da Pagar.me para compartilhar conhe
 
 - [Evite seeds de dados globais, adicione os dados por teste](artigos/test:evitar-seeds-globais.md)
 - [Rest 101: Nomes](artigos/rest-101-nomes.md)
+- [Estrutura dos testes](artigos/estrutura-dos-testes.md)
 
 ## :heart: Como contribuir
 
